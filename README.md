@@ -1,5 +1,5 @@
 ### Oiiii, eu sou a Soraia° Carvalho :)
-Sou apaixonada por análise de dados, estou sempre estudando tecnologias novas e criando conteúdo no Linkedin e no medium. atualmente estou em transição de carreira para Cientista de Dados.
+Sou apaixonada por análise de dados, estou sempre estudando tecnologias novas e criando conteúdo no Linkedin e no medium. Atualmente estou em transição de carreira, para Cientista de Dados.
 - 👨🏻‍💻 **Analista de dados** 
 - ⚽ Apaixonada por **Futebol**
 - 👜 Especialista em projetos com selo GreenBelt
